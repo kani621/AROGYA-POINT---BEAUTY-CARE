@@ -4,4 +4,4 @@
 Tools Used: Figma
 Skills: UI/UX Design, Wireframing, Prototyping, Visual Design, Responsive Design, E-Commerce Design, User-Centered Design
 
-Tags: #Figma #UIUX #WebDesign #Ecommerce #BeautyCare #Wellness #FrontendDesign #PortfolioProject
+
